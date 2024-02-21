@@ -181,6 +181,8 @@ En este ejercicio, modificará el formulario principal de la tabla Propiedad inm
 
 1. **Cierre** el diseñador de formularios.
 
+1. Seleccione **Listo**.
+
 
 ## Ejercicio 2: Visualización del formulario principal
 
@@ -224,6 +226,8 @@ En este ejercicio, modificará el formulario principal de la tabla de Visita.
 
 1. **Cierre** el diseñador de formularios.
 
+1. Seleccione **Listo**.
+
 
 ## Ejercicio 3: Varios formularios
 
@@ -251,7 +255,9 @@ En este ejercicio, creará un nuevo formulario y restringirá el acceso con un r
 
 1. Seleccione la tabla **Visita** 4 veces para cambiar el nivel de acceso en todos los privilegios a **Organización**.
 
-1. Seleccione **Guardar y cerrar**. De vuelta en la solución, seleccione **Listo** para recuperar los cambios.
+1. Seleccione **Guardar y cerrar**.
+
+1. Seleccione **Listo**.
 
 
 ### Tarea 3.2: Copia del formulario
@@ -280,7 +286,9 @@ En este ejercicio, creará un nuevo formulario y restringirá el acceso con un r
 
 1. Seleccione **Guardar y publicar**.
 
-1. **Cierre** el diseñador de formularios y seleccione **Listo**.
+1. **Cierre** el diseñador de formularios.
+
+1. Seleccione **Listo**.
 
 
 ## Ejercicio 4: Vistas de propiedades inmobiliarias
@@ -323,16 +331,18 @@ En este ejercicio, modificará las vistas de la tabla Propiedad inmobiliaria.
 
 1. Seleccione **Guardar y publicar**.
 
-1. **Cierre** el diseñador de vistas y seleccione **Listo**.
+1. **Cierre** el diseñador de vistas.
+
+1. Seleccione **Listo**.
 
 
 ### Tarea 4.2: Vista de búsqueda rápida de propiedades inmobiliarias
 
-1. Seleccione la vista **Búsqueda rápida de propiedades inmobiliarias**, seleccione el menú **Comandos** (...) y seleccione **Editar** > **Editar en la nueva pestaña**.
+1. Seleccione la vista **Búsqueda rápida de propiedades inmobiliarias activas**, seleccione el menú **Comandos** (...) y, después, **Editar** > **Editar en la nueva pestaña**.
 
 1. Seleccione el símbolo de intercalación junto a la columna **Creada en** y seleccione **Quitar**.
 
-1. En el panel **Búsqueda rápida de propiedades inmobiliarias activas** a la derecha, seleccione **Editar columnas de la tabla de búsqueda** en **Buscar por **.
+1. En el panel **Búsqueda rápida de propiedades inmobiliarias activas** de la derecha, seleccione **Editar columnas de la tabla de búsqueda** en **Buscar por **.
 
 1. Elija las columnas siguientes y seleccione **Aplicar**.
 
@@ -342,7 +352,9 @@ En este ejercicio, modificará las vistas de la tabla Propiedad inmobiliaria.
 
 1. Seleccione **Guardar y publicar**.
 
-1. **Cierre** el diseñador de vistas y seleccione **Listo**.
+1. **Cierre** el diseñador de vistas.
+
+1. Seleccione **Listo**.
 
 
 ## Ejercicio 5: Vistas de visita
@@ -404,6 +416,6 @@ En este ejercicio, modificará las vistas de la tabla Visita.
 
 1. Seleccione **Guardar y publicar**.
 
-1. **Cierre** el diseñador de vistas y seleccione **Listo**.
+1. **Cierre** el diseñador de vistas.
 
-
+1. Seleccione **Listo**.
