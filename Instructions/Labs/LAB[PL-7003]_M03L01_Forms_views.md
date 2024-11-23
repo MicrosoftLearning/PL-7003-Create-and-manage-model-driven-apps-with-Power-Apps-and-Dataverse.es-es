@@ -157,7 +157,7 @@ En este ejercicio, modificará el formulario principal de la tabla Propiedad inm
 
 1. Seleccione el control de **pestaña de 1 columna** para agregarlo al formulario.
 
-1. Escriba `Showings` en **Etiqueta** y `showingTab` en **Etiqueta**.
+1. Escriba `Showings` en **Etiqueta** y `showingTab` en **Nombre**.
 
 1. Seleccione **Vista de árbol** en el lado izquierdo del diseñador de formularios, expanda la pestaña **Visitas** y seleccione la sección **Nueva sección**.
 
@@ -247,13 +247,13 @@ En este ejercicio, creará un nuevo formulario y restringirá el acceso con un r
 
 1. Escriba `Property admin` en **Nombre de rol**.
 
-1. Seleccione la pestaña **Entidades personalizadas**.
+1. Desplázate hacia abajo hasta la sección **Tablas personalizadas**.
 
-1. Seleccione la tabla **Propiedad inmobiliaria** 4 veces para cambiar el nivel de acceso en todos los privilegios a **Organización**.
+1. Selecciona la tabla **Propiedad inmobiliaria**. Cambia el nivel de acceso en todos los privilegios a **Organización**.
 
     ![Privilegios de propiedad inmobiliaria en el rol de seguridad.](../media/security-role.png)
 
-1. Seleccione la tabla **Visita** 4 veces para cambiar el nivel de acceso en todos los privilegios a **Organización**.
+1. Selecciona la tabla **Mostrar**. Cambia el nivel de acceso en todos los privilegios a **Organización**.
 
 1. Seleccione **Guardar y cerrar**.
 
