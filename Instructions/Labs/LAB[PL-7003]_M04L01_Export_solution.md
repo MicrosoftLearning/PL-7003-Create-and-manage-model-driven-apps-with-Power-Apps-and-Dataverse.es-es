@@ -66,6 +66,8 @@ En este ejercicio, exportará la solución desde el entorno de desarrollo.
 
 1. Seleccione **Siguiente**.
 
+1. Seleccione **Siguiente** de nuevo.
+
 1. El número de versión debe haberse incrementado a **1.0.0.1**.
 
     ![Panel Exportar solución.](../media/export-solution.png)
@@ -82,6 +84,8 @@ En este ejercicio, exportará la solución desde el entorno de desarrollo.
 1. Seleccione **Exportar**.
 
 1. Seleccione **Siguiente**.
+
+1. Seleccione **Siguiente** de nuevo.
 
 1. El número de versión debe haberse incrementado a **1.0.0.2**.
 

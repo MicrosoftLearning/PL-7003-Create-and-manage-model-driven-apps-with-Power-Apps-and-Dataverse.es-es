@@ -51,7 +51,7 @@ En este ejercicio, configurará la navegación y las tablas de una aplicación c
 
 1. En el panel de propiedades, escriba `Clients` en **Título**.
 
-1. Seleccione **Navegación**, seleccione el menú **Comandos** (...) **...** y seleccione **Nuevo grupo**.
+1. Selecciona **Navegación**, selecciona el menú **Comandos** (...) y **Nuevo grupo**.
 
 1. En el panel de propiedades, escriba `Properties` en **Título**.
 
