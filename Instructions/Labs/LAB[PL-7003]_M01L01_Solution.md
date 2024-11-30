@@ -89,7 +89,7 @@ En este ejercicio, agregará una tabla existente a la solución.
 
 1. Seleccione **Soluciones**.
 
-1. Seleccione la solución **Contoso Real Estate**, del ejercicio anterior.
+1. Selecciona la solución **Listados de propiedades**, en el ejercicio anterior.
 
     ![Propiedad que enumera los objetos de la solución.](../media/solution-objects.png)
 

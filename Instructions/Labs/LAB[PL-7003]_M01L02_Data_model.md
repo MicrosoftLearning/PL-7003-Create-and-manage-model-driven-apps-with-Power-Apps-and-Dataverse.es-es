@@ -47,7 +47,7 @@ En este ejercicio, creará y agregará tablas a la solución.
 
 1. Abra la solución **Descripciones de propiedades**.
 
-1. Seleccione **+ Nuevo** y, a continuación, seleccione **Tabla** y vuelva a seleccionar **Tabla**.
+1. Selecciona **+ Nuevo** y, a continuación, selecciona **Tabla** y **Establecer propiedades avanzadas**).
 
     ![Captura de pantalla del nuevo panel de tabla](../media/new-table-pane.png)
 
@@ -78,7 +78,7 @@ En este ejercicio, creará y agregará tablas a la solución.
 
 1. En el panel **Objetos**, seleccione **Todos**.
 
-1. Seleccione **+ Nuevo** y, a continuación, seleccione **Tabla** y vuelva a seleccionar **Tabla**.
+1. Selecciona **+ Nuevo** y, a continuación, selecciona **Tabla** y **Establecer propiedades avanzadas**).
 
 1. En **Nombre para mostrar**, escriba `Showing`. El nombre plural se rellenará automáticamente.
 
@@ -93,7 +93,7 @@ En este ejercicio, creará y agregará tablas a la solución.
 
 1. En el panel **Objetos**, seleccione **Todos**.
 
-1. Seleccione **+ Nuevo** y, a continuación, seleccione **Tabla** y vuelva a seleccionar **Tabla**.
+1. Selecciona **+ Nuevo** y, a continuación, selecciona **Tabla** y vuelve a seleccionar **Establecer propiedades avanzadas**.
 
 1. En **Nombre para mostrar**, escriba `Open House`. El nombre plural se rellenará automáticamente.
 
@@ -241,6 +241,8 @@ En este ejercicio, creará columnas en las tablas de la solución.
 1. Seleccione **Texto** en la lista desplegable **Tipos de datos** y, a continuación, en **Varias líneas de texto**, seleccione **Texto sin formato**.
 
 1. Seleccione **Guardar**.
+
+1. Seleccione **+ Nueva columna**.
 
 1. En **Nombre para mostrar**, escriba `Level of Interest`.
 
