@@ -83,6 +83,7 @@ En este ejercicio, creará una aplicación controlada por modelos.
 
 1. Seleccione **Publish**.
 
+    ![Captura de pantalla del icono de publicación.](../media/mda-publish-btn.png)
 
 ### Tarea 1.3: Prueba
 

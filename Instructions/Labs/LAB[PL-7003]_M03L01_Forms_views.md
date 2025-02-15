@@ -171,7 +171,7 @@ En este ejercicio, modificará el formulario principal de la tabla Propiedad inm
 
 1. Seleccione **Solo los registros relacionados**.
 
-1. Seleccione **Visitas** para **Tabla** y **Visitas activas** para la **Vista predeterminada** y seleccione **Listo**.
+1. Selecciona **Visitas (Propiedad inmobiliaria)** para **Tabla** y **Visitas activas** para **Vista predeterminada** y selecciona **Listo**.
 
 1. Escriba `Showings` en **Etiqueta** y `showingsSG` en **Nombre**.
 
@@ -255,7 +255,7 @@ En este ejercicio, creará un nuevo formulario y restringirá el acceso con un r
 
 1. Selecciona la tabla **Mostrar**. Cambia el nivel de acceso en todos los privilegios a **Organización**.
 
-1. Seleccione **Guardar y cerrar**.
+1. Selecciona **Guardar y cerrar**.
 
 1. Seleccione **Listo**.
 
