@@ -47,7 +47,7 @@ En este ejercicio, creará y agregará tablas a la solución.
 
 1. Abra la solución **Descripciones de propiedades**.
 
-1. Selecciona **+ Nuevo** y, a continuación, selecciona **Tabla** y **Establecer propiedades avanzadas**).
+1. Selecciona **+ Nuevo** y luego **Tabla** y **Tabla (propiedades avanzadas)**.
 
     ![Captura de pantalla del nuevo panel de tabla](../media/new-table-pane.png)
 
@@ -78,7 +78,7 @@ En este ejercicio, creará y agregará tablas a la solución.
 
 1. En el panel **Objetos**, seleccione **Todos**.
 
-1. Selecciona **+ Nuevo** y, a continuación, selecciona **Tabla** y **Establecer propiedades avanzadas**).
+1. Selecciona **+ Nuevo** y luego **Tabla** y **Tabla (propiedades avanzadas)**.
 
 1. En **Nombre para mostrar**, escriba `Showing`. El nombre plural se rellenará automáticamente.
 
@@ -93,7 +93,7 @@ En este ejercicio, creará y agregará tablas a la solución.
 
 1. En el panel **Objetos**, seleccione **Todos**.
 
-1. Selecciona **+ Nuevo** y, a continuación, selecciona **Tabla** y vuelve a seleccionar **Establecer propiedades avanzadas**.
+1. Selecciona **+ Nuevo** y, a continuación, selecciona **Tabla** y vuelve a seleccionar **Tabla (propiedades avanzadas)**.
 
 1. En **Nombre para mostrar**, escriba `Open House`. El nombre plural se rellenará automáticamente.
 
