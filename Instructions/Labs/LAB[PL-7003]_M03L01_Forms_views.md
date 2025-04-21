@@ -247,6 +247,8 @@ En este ejercicio, creará un nuevo formulario y restringirá el acceso con un r
 
 1. Escriba `Property admin` en **Nombre de rol**.
 
+1. Selecciona la **unidad de negocio** y guardar.
+
 1. Desplázate hacia abajo hasta la sección **Tablas personalizadas**.
 
 1. Selecciona la tabla **Propiedad inmobiliaria**. Cambia el nivel de acceso en todos los privilegios a **Organización**.
