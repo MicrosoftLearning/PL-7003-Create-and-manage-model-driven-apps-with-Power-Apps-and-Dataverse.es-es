@@ -46,7 +46,6 @@ En este ejercicio, exportará la solución desde el entorno de desarrollo.
 
 1. Seleccione **Publicar todas las personalizaciones**.
 
-
 ### Tarea 1.2: Comprobador de soluciones
 
 1. En la solución, seleccione la pestaña **Información general**.
@@ -58,7 +57,6 @@ En este ejercicio, exportará la solución desde el entorno de desarrollo.
     ![Página de resultados del comprobador de soluciones.](../media/solution-checker.png)
 
 1. No debería ver advertencias ni errores.
-
 
 ### Tarea 1.3: Exportación de una solución administrada
 
@@ -78,7 +76,6 @@ En este ejercicio, exportará la solución desde el entorno de desarrollo.
 
 1. La exportación se preparará en segundo plano. Cuando la solución esté lista, seleccione el botón **Descargar**.
 
-
 ### Tarea 1.4: Exportación de una solución no administrada
 
 1. Seleccione **Exportar**.
@@ -96,4 +93,3 @@ En este ejercicio, exportará la solución desde el entorno de desarrollo.
 1. Seleccione **Exportar**.
 
 1. La exportación se preparará en segundo plano. Cuando la solución esté lista, seleccione el botón **Descargar**.
-

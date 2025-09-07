@@ -63,7 +63,6 @@ En este ejercicio, configurará la navegación y las tablas de una aplicación c
 
     ![Captura de pantalla del diseñador de aplicaciones basado en modelos con navegación.](../media/mda-navigation.png)
 
-
 ### Tarea 1.2: Restringir vistas
 
 1. En el panel **Navegación**, seleccione **Mostrar vista**.
@@ -74,9 +73,6 @@ En este ejercicio, configurará la navegación y las tablas de una aplicación c
 
     ![Captura de pantalla de la eliminación de una vista en el diseñador de aplicaciones controladas por modelos.](../media/mda-remove-view.png)
 
-1. Seleccione **Guardar**.
-
-1. Seleccione **Publish**.
+1. Seleccione **Guardar y publicar**.
 
 1. **Cierre** el diseñador de aplicaciones y seleccione **Listo**.
-
