@@ -47,7 +47,7 @@ En este ejercicio, creará y agregará tablas a la solución.
 
 1. Abra la solución **Descripciones de propiedades**.
 
-1. Selecciona **+ Nuevo** y luego **Tabla** y **Tabla (propiedades avanzadas)**.
+1. Seleccione **+Nuevo**, luego seleccione **Tabla** y, a continuación, seleccione **Tabla (propiedades avanzadas)**.
 
     ![Captura de pantalla del nuevo panel de tabla](../media/new-table-pane.png)
 
@@ -73,12 +73,17 @@ En este ejercicio, creará y agregará tablas a la solución.
 
 1. Seleccione **Guardar**.
 
+1. Seleccionar **Propiedades**.
+
+    ![Captura de pantalla de la tabla Propiedad inmobiliaria](../media/real-estate-property-table.png)
+
+1. Active **Habilitar datos adjuntos** y seleccione **Guardar**.
 
 ### Tarea 1.2: Crear tabla de Se muestran
 
 1. En el panel **Objetos**, seleccione **Todos**.
 
-1. Selecciona **+ Nuevo** y luego **Tabla** y **Tabla (propiedades avanzadas)**.
+1. Seleccione **+Nuevo**, luego seleccione **Tabla** y, a continuación, seleccione **Tabla (propiedades avanzadas)**.
 
 1. En **Nombre para mostrar**, escriba `Showing`. El nombre plural se rellenará automáticamente.
 
@@ -88,12 +93,11 @@ En este ejercicio, creará y agregará tablas a la solución.
 
 1. Seleccione **Guardar**.
 
-
 ### Tarea 1.3: Crear tabla de Open House
 
 1. En el panel **Objetos**, seleccione **Todos**.
 
-1. Selecciona **+ Nuevo** y, a continuación, selecciona **Tabla** y vuelve a seleccionar **Tabla (propiedades avanzadas)**.
+1. Seleccione **+Nuevo** y, a continuación, seleccione **Tabla** y seleccione **Tabla (propiedades avanzadas)**.
 
 1. En **Nombre para mostrar**, escriba `Open House`. El nombre plural se rellenará automáticamente.
 
@@ -102,7 +106,6 @@ En este ejercicio, creará y agregará tablas a la solución.
 1. Seleccione **Organización** para **Propiedad del registro**.
 
 1. Seleccione **Guardar**.
-
 
 ### Tarea 1.4: Agregar tabla de contactos
 
@@ -115,7 +118,6 @@ En este ejercicio, creará y agregará tablas a la solución.
 1. Seleccione **Siguiente**.
 
 1. Seleccione **Agregar**.
-
 
 ## Ejercicio 2: Crear columnas
 
@@ -132,12 +134,6 @@ En este ejercicio, creará columnas en las tablas de la solución.
 1. Abra la solución **Descripciones de propiedades**.
 
 1. Seleccione la tabla **Propiedad inmobiliaria**.
-
-1. Seleccionar **Propiedades**.
-
-    ![Captura de pantalla de la tabla Propiedad inmobiliaria](../media/real-estate-property-table.png)
-
-1. Active **Habilitar datos adjuntos** y seleccione **Guardar**.
 
 1. En **Esquema**, seleccione **Columnas**.
 
@@ -213,7 +209,6 @@ En este ejercicio, creará columnas en las tablas de la solución.
 
 1. Seleccione **Guardar**.
 
-
 ### Tarea 2.2: Crear columnas de Se muestran
 
 1. En el panel **Objetos**, seleccione **Todos**.
@@ -272,7 +267,6 @@ En este ejercicio, creará columnas en las tablas de la solución.
 
 1. Seleccione **Guardar**.
 
-
 ### Tarea 2.3: Crear columnas de Open House
 
 1. En el panel **Objetos**, seleccione **Todos**.
@@ -292,7 +286,6 @@ En este ejercicio, creará columnas en las tablas de la solución.
 1. En la lista desplegable **Obligatorio**, seleccione **Requisito empresarial**.
 
 1. Seleccione **Guardar**.
-
 
 ## Ejercicio 3: Crear relaciones
 
@@ -322,7 +315,6 @@ En este ejercicio, creará relaciones entre las tablas de la solución.
 
 1. Seleccione **Listo**.
 
-
 ### Tarea 3.2 : Propiedad inmobiliaria para la relación de Se muestran
 
 1. Seleccione **+ Nueva relación** y, después, **Varios a uno**.
@@ -332,7 +324,6 @@ En este ejercicio, creará relaciones entre las tablas de la solución.
 1. En la lista desplegable **Requisito de columna de búsqueda**, seleccione **Requisito empresarial**.
 
 1. Seleccione **Listo**.
-
 
 ### Tarea 3.3 : Relación de Propiedad inmobiliaria con Open House
 
@@ -347,7 +338,6 @@ En este ejercicio, creará relaciones entre las tablas de la solución.
 1. Escriba `realestateproperty_openhouse` en **Nombre de la relación**.
 
 1. Seleccione **Listo**.
-
 
 ### Tarea 3.4: Relación de Se muestran con Contacto
 
@@ -364,4 +354,3 @@ En este ejercicio, creará relaciones entre las tablas de la solución.
 1. Escriba `Shown to` en **Nombre para mostrar de la columna de búsqueda**.
 
 1. Seleccione **Listo**.
-

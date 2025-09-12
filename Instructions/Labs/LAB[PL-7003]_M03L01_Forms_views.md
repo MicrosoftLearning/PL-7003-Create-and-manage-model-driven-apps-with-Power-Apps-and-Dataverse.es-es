@@ -78,9 +78,11 @@ En este ejercicio, modificará el formulario principal de la tabla Propiedad inm
 
     ![Captura de pantalla del formulario principal con la vista de árbol y los nombres.](../media/main-form-tab-layout.png)
 
-1. Seleccione la primera sección.
-
 1. Seleccione **Columnas de tabla** en el panel de navegación izquierdo del diseñador de formularios.
+
+1. Arrastre la columna **Motivo de estado** al área **Encabezado**.
+
+1. Seleccione la primera sección.
 
 1. Arrastre la columna **Cliente** debajo del campo **Nombre de propiedad**.
 
@@ -90,7 +92,7 @@ En este ejercicio, modificará el formulario principal de la tabla Propiedad inm
 
 1. Seleccione **Componentes** en el panel de navegación izquierdo del diseñador de formularios.
 
-1. Seleccione el control de **sección de 1 columna** para agregarlo al formulario.
+1. Seleccione el control **Sección de 1 columna** para agregarlo al formulario debajo de la sección "General".
 
 1. Escriba `Details` en **Etiqueta** y `detailsSection` en **Nombre**.
 
@@ -105,7 +107,6 @@ En este ejercicio, modificará el formulario principal de la tabla Propiedad inm
 1. Seleccione la columna **Baños** para agregarla al formulario debajo de **Dormitorios**.
 
     ![Captura de pantalla del formulario principal con columnas de tabla.](../media/main-form-first-tab.png)
-
 
 ### Tarea 1.2: Adición de un control de escala de tiempo
 
@@ -131,11 +132,6 @@ En este ejercicio, modificará el formulario principal de la tabla Propiedad inm
 
 1. En el panel **Propiedades** del lado derecho, seleccione **Fecha de creación** en la lista desplegable **Ordenar actividades por**.
 
-1. Seleccione **Columnas de tabla** en el panel de navegación izquierdo del diseñador de formularios.
-
-1. Arrastre la columna **Motivo de estado** al área **Encabezado**.
-
-
 ### Tarea 1.3: Adición de un control de vista rápida
 
 1. Seleccione **Vista de árbol** en el lado izquierdo del diseñador de formularios.
@@ -149,7 +145,6 @@ En este ejercicio, modificará el formulario principal de la tabla Propiedad inm
 1. Seleccione el control **Vista rápida** para agregarlo a la sección **Relacionado**.
 
 1. Seleccione **Cliente** para **Búsqueda** y **tarjeta de contacto de cuenta** para **Contacto** y seleccione **Listo**.
-
 
 ### Tarea 1.4: Adición de una pestaña
 
@@ -183,7 +178,6 @@ En este ejercicio, modificará el formulario principal de la tabla Propiedad inm
 
 1. Seleccione **Listo**.
 
-
 ## Ejercicio 2: Visualización del formulario principal
 
 En este ejercicio, modificará el formulario principal de la tabla de Visita.
@@ -216,7 +210,7 @@ En este ejercicio, modificará el formulario principal de la tabla de Visita.
 
 1. Seleccione la columna **Fecha de visita** para agregarla al formulario debajo de **Mostrada por**.
 
-1. Seleccione la columna **Nivel de interés** para agregarla al formulario debajo de **Fecha de visita**.
+1. Seleccione la columna **Nivel de interés** para agregarla al formulario debajo de **Fecha de presentación**.
 
 1. Seleccione la columna **Comentarios** para agregarla al formulario debajo de **Nivel de interés**.
 
@@ -227,7 +221,6 @@ En este ejercicio, modificará el formulario principal de la tabla de Visita.
 1. **Cierre** el diseñador de formularios.
 
 1. Seleccione **Listo**.
-
 
 ## Ejercicio 3: Varios formularios
 
@@ -247,20 +240,39 @@ En este ejercicio, creará un nuevo formulario y restringirá el acceso con un r
 
 1. Escriba `Property admin` en **Nombre de rol**.
 
-1. Selecciona la **unidad de negocio** y guardar.
+1. Seleccione la **unidad de negocio raíz** y seleccione **Guardar**.
 
-1. Desplázate hacia abajo hasta la sección **Tablas personalizadas**.
+1. Escriba `cre_` en **Buscar por nombre de tabla** en la esquina superior derecha de la página.
 
-1. Selecciona la tabla **Propiedad inmobiliaria**. Cambia el nivel de acceso en todos los privilegios a **Organización**.
+1. Seleccione **Mostrar todas las tablas** en la lista desplegable del lado izquierdo de la página.
+
+1. Selecciona la tabla **Propiedad inmobiliaria**.
+
+1. Seleccione el menú **Comandos** (...) y seleccione **Configuración de permisos**.
+
+1. Seleccione **Acceso total** para cambiar el nivel de acceso de todos los privilegios a **Organización**.
+
+1. Seleccione **Guardar**.
 
     ![Privilegios de propiedad inmobiliaria en el rol de seguridad.](../media/security-role.png)
 
-1. Selecciona la tabla **Mostrar**. Cambia el nivel de acceso en todos los privilegios a **Organización**.
+1. Seleccione la tabla **Mostrar**.
 
-1. Selecciona **Guardar y cerrar**.
+1. Seleccione el menú **Comandos** (...) y seleccione **Configuración de permisos**.
 
-1. Seleccione **Listo**.
+1. Seleccione **Acceso total** para cambiar el nivel de acceso de todos los privilegios a **Organización**.
 
+1. Seleccione **Guardar**.
+
+1. Seleccione la tabla **Open House**.
+
+1. Seleccione el menú **Comandos** (...) y seleccione **Configuración de permisos**.
+
+1. Seleccione **Acceso total** para cambiar el nivel de acceso de todos los privilegios a **Organización**.
+
+1. Seleccione **Guardar**.
+
+1. Seleccione **<- Atrás**.
 
 ### Tarea 3.2: Copia del formulario
 
@@ -270,9 +282,9 @@ En este ejercicio, creará un nuevo formulario y restringirá el acceso con un r
 
 1. Seleccione el formulario **Información** donde el **tipo de formulario** es **Principal**, seleccione el menú **Comandos** (...) y seleccione **Editar** > **Editar en nueva pestaña**.
 
-1. Seleccione **Nivel de interés** y, en el panel de Propiedades, seleccione **Solo lectura**.
+1. Seleccione **Nivel de interés** y, en el panel "Propiedades", seleccione **Solo lectura**.
 
-1. Seleccione **Comentarios** y, en el panel de Propiedades, seleccione **Solo lectura**.
+1. Seleccione **Comentarios** y, en el panel "Propiedades", seleccione **Solo lectura**.
 
 1. Seleccione **Guardar una copia**.
 
@@ -291,7 +303,6 @@ En este ejercicio, creará un nuevo formulario y restringirá el acceso con un r
 1. **Cierre** el diseñador de formularios.
 
 1. Seleccione **Listo**.
-
 
 ## Ejercicio 4: Vistas de propiedades inmobiliarias
 
@@ -337,7 +348,6 @@ En este ejercicio, modificará las vistas de la tabla Propiedad inmobiliaria.
 
 1. Seleccione **Listo**.
 
-
 ### Tarea 4.2: Vista de búsqueda rápida de propiedades inmobiliarias
 
 1. Seleccione la vista **Búsqueda rápida de propiedades inmobiliarias activas**, seleccione el menú **Comandos** (...) y, después, **Editar** > **Editar en la nueva pestaña**.
@@ -357,7 +367,6 @@ En este ejercicio, modificará las vistas de la tabla Propiedad inmobiliaria.
 1. **Cierre** el diseñador de vistas.
 
 1. Seleccione **Listo**.
-
 
 ## Ejercicio 5: Vistas de visita
 
@@ -400,7 +409,6 @@ En este ejercicio, modificará las vistas de la tabla Visita.
 1. En el panel Propiedades, seleccione **Ordenar por** y seleccione **Fecha de visita**.
 
 1. En el menú desplegable **Guardar y publicar**, seleccione **Guardar solo**.
-
 
 ### Tarea 5.2: Vista de nueva visita
 

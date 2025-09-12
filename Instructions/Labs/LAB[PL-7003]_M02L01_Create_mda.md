@@ -29,7 +29,6 @@ Contoso Real Estate quiere realizar un seguimiento de dos elementos clave:
 
 - Debe de haber completado la práctica **Laboratorio 2: Modelo de datos**
 
-
 ## Pasos detallados
 
 ## Ejercicio 1: Compilación de una aplicación controlada por modelos
@@ -56,16 +55,13 @@ En este ejercicio, creará una aplicación controlada por modelos.
 
     ![Captura de pantalla de un diseñador de aplicaciones basadas en modelos](../media/mda-designer.png)
 
-
 ### Tarea 1.2: Agregar tablas
 
-1. Seleccione **+ Agregar página**.
+1. Seleccione la lista desplegable situada junto a **+ Agregar página** y seleccione **Tabla de Dataverse**.
 
     ![Captura de pantalla del cuadro de diálogo Agregar página a la aplicación controlada por modelos](../media/mda-new-page.png)
 
-1. Seleccione **Tabla de Dataverse**.
-
-1. Escriba `cre` en **Búsqueda**.
+1. Escriba `cre_` en **Búsqueda**.
 
     ![Captura de pantalla del cuadro de diálogo Agregar página a la aplicación controlada por modelos.](../media/mda-add-tables.png)
 
@@ -79,11 +75,9 @@ En este ejercicio, creará una aplicación controlada por modelos.
 
     ![Captura de pantalla del diseñador de aplicaciones controladas por modelos con tablas.](../media/mda-designer-with-tables.png)
 
-1. Seleccione **Guardar**.
+1. Seleccione **Guardar y publicar**.
 
-1. Seleccione **Publish**.
-
-    ![Captura de pantalla del icono de publicación.](../media/mda-publish-btn.png)
+    ![Recorte de pantalla del icono "Guardar y publicar".](../media/mda-save-publish-btn.png)
 
 ### Tarea 1.3: Prueba
 
@@ -119,3 +113,6 @@ En este ejercicio, creará una aplicación controlada por modelos.
 
 1. Seleccione **Guardar y cerrar**.
 
+1. Cierra la aplicación.
+
+1. Seleccione **<- Atrás** en el diseñador de aplicaciones **Administración de propiedades**.

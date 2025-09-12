@@ -38,6 +38,8 @@ En este ejercicio, comprobará que puede acceder a Power Apps.
 
 1. Opcionalmente, seleccione **Sí** para mantener la sesión iniciada.
 
+1. Opcionalmente, seleccione **No, gracias** para iniciar sesión en Microsoft Edge.
+
 1. Si se le solicita información de contacto, deje el país o región como valor predeterminado y escriba `0123456789` para Número de teléfono y seleccione **Enviar**.
 
 1. Actualice la página. En la parte superior derecha de la pantalla, compruebe que el **Entorno** está establecido en **Dev One**. Aquí es donde trabajará para la totalidad de este laboratorio. Si no es así, seleccione el entorno de **Dev One**.

@@ -43,7 +43,7 @@ En este ejercicio, accederá al portal de Power Apps Maker, el entorno de Desarr
 
     ![Seleccione Entorno de desarrollo en el portal de Power Apps Maker.](../media/select-dev-one-environment.png)
 
-1. Seleccione **Aplicaciones** en el panel de navegación izquierdo y después seleccione **Todas**. Debería ver en la lista varias aplicaciones, entre ellas, Dataverse Accelerator App, Solution Health Hub y Power Pages Management.
+1. Seleccione **Aplicaciones** en el panel de navegación izquierdo y después seleccione **Todas**. Debería ver varias aplicaciones, como Power Pages Management, Centro de estado de la solución y Configuración del entorno de Power Platform.
 
 1. Seleccione **Tablas** en el panel de navegación izquierdo. Debería ver las tablas estándar de *Common Data Model*, incluidas las de Cuenta y Contacto.
 
